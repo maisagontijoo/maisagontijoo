@@ -7,7 +7,6 @@ Atualmente estudo no Colégio COTEMIG e estou no 3º ano.
 Tenho interesse em desenvolver os meus conhecimentos em programação e desenvolvimento de software.
 Sou apaixonada por tecnologia e sempre busco aprender mais sobre linguagens de programação e atividades relacionadas a tecnologia.
 
----
 
 ## 🚀: Conhecimentos
 
@@ -19,13 +18,11 @@ Sou apaixonada por tecnologia e sempre busco aprender mais sobre linguagens de p
 
 - Ferramentas: Google Workspace
 
----
 
 ## 🌱: O que estou aprendendo
 
 Atualmente me aprofundando em frameworks para desenvolvimento web, mobile e boas práticas de programação.
 
----
 
 ##📫: Contato
 
