@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-## 👋 Me chamo Maísa Gontijo Oliveira.
+## 👋 Me chamo Maísa Gontijo Oliveira
 Atualmente estudo no Colégio COTEMIG e estou no 3º ano.
 Tenho interesse em desenvolver os meus conhecimentos em programação e desenvolvimento de software.
 Sou apaixonada por tecnologia e sempre busco aprender mais sobre linguagens de programação e atividades relacionadas a tecnologia.
