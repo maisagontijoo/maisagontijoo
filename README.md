@@ -24,7 +24,7 @@ Sou apaixonada por tecnologia e sempre busco aprender mais sobre linguagens de p
 Atualmente me aprofundando em frameworks para desenvolvimento web, mobile e boas práticas de programação.
 
 
-##📫: Contato
+## 📫: Contato
 
 - E-mail: maisaagontijo@gmail.com
 
